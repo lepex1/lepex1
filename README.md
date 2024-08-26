@@ -1,1 +1,1 @@
-# [Info about me](https://lepex1.github.io)
+# [Info about me](https://lepex.ru/)
