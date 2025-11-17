@@ -1,1 +1,1 @@
-# [Info about me](https://lepex.ru/)
+# [website](https://lepex.vercel.app/)
