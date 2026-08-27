@@ -1,1 +1,1 @@
-# [website](https://guns.lol/lepex)
+# [website](https://lepex.vercel.app/)
