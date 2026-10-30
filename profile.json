@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "login": "lepex1",
+  "seed": "#F8FDFC",
+  "seedFromAvatar": true,
+  "scheme": "monochrome",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "wave",
+    "buttons",
+    "stats",
+    "streak"
+  ],
+  "hidden": [
+    "streak",
+    "stats",
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "Привет, я",
+    "name": "lepex",
+    "subtitle": "Разработчик веб-интерфейсов и полезных утилит.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Russia"
+      }
+    ]
+  },
+  "about": {
+    "title": "Обо мне",
+    "items": [
+      {
+        "icon": "palette",
+        "label": "Создаю интерфейсы с вниманием к Material Design 3 и деталям"
+      },
+      {
+        "icon": "code",
+        "label": "Разрабатываю легковесные утилиты"
+      },
+      {
+        "icon": "translate",
+        "label": "Занимаюсь переводами и адаптацией зарубежного медиаконтента"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Стек",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:dart",
+            "label": "Dart"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:materialdesign",
+            "label": "Material Design 3"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:vercel",
+            "label": "Vercel"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "tiny-weather",
+      "echo-bot",
+      "dotfiles",
+      "pixel-garden"
+    ],
+    "overrides": {
+      "tiny-weather": {}
+    },
+    "empty": "-",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Активность на GitHub",
+    "stars": "Звёзд получено",
+    "contributions": "Вкладов за год",
+    "repos": "Публичных репо",
+    "followers": "Подписчиков",
+    "calendar": "Последние 21 день",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Языки в моих репозиториях",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Серия",
+    "current": "Текущая серия",
+    "longest": "Рекорд за год",
+    "days": "дн."
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "globe",
+        "url": "https://lepex.vercel.app/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "filled",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "Мой сайт",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "Все репозитории",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
